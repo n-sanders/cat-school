@@ -1,3 +1,28 @@
+# Cat School
+
+Learn to recognize 24 popular cat breeds. Built from the StudyKit skeleton (below);
+photos come from [The Cat API](https://thecatapi.com/).
+
+## The Cat API key
+
+Put a free-tier key in `.env` (git-ignored):
+
+```sh
+VITE_CAT_API_KEY=live_...
+```
+
+- `npm run dev` / `npm run build` / `npm run deploy` build the key into the site, so
+  Practice and Review can fetch live, breed-labelled photos. The key is visible in the
+  public bundle; that is acceptable only for a free-tier key, which just stops working if
+  abused. Without a key the site uses pinned photos only (the keyless API ignores the
+  breed filter and returns random cats).
+- `npm run pin-images` tops each breed in `content/items/` up to 6 labelled photos
+  (`-- <slug> ...` for some breeds, `-- --count 8`, `-- --list-breeds` for the API's
+  breed ids). New photos are added with `reviewed: false`; look at each one and set
+  `reviewed: true`, or delete it and add its id to `rejectedPhotos` in
+  `site.config.ts` (rejected photos are never pinned or shown live). Lesson quizzes use
+  only pinned photos.
+
 # StudyKit
 
 A skeleton for small, standalone learning sites. Each site is a static web app with:

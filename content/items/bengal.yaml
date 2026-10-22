@@ -1,0 +1,44 @@
+slug: bengal
+name: Bengal
+category: shorthair
+attributes:
+  origin: United States
+  size: Medium to large
+  lifespan: 12-16 years
+imageQuery: beng
+summary: A muscular, wild-looking cat with leopard-like rosettes or marbling, descended from the Asian leopard cat.
+traits:
+  - text: Spotted or marbled coat; the best spots are two-toned "rosettes" like a leopard's.
+    source: cfa
+  - text: Developed by crossing domestic cats with the wild Asian leopard cat.
+    source: wikipedia
+  - text: Many Bengals have "glitter" - a sparkly sheen on the coat.
+    source: wikipedia
+  - text: Large, long, muscular body with a broad nose and small, rounded ears.
+    source: cfa
+lookAlikes: [ egyptian-mau, ocicat ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Bengal"
+    url: https://cfa.org/breed/bengal/
+  - id: wikipedia
+    title: "Wikipedia: Bengal cat"
+    url: https://en.wikipedia.org/wiki/Bengal_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/NwMUoJYmT.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/UhqCZ7tC4.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/dN6eoeLjY.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/8RsP7Xt3h.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/O3btzLlsO.png
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

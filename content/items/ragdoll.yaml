@@ -1,0 +1,39 @@
+slug: ragdoll
+name: Ragdoll
+category: longhair
+attributes:
+  origin: United States
+  size: Large
+  lifespan: 12-17 years
+imageQuery: ragd
+summary: A large, blue-eyed, semi-longhaired colorpoint cat in colorpoint, mitted, bicolor, and van patterns.
+traits:
+  - text: Colorpoint pattern with blue eyes, in four styles - colorpoint (no white), mitted (white paws, a white chin, and a white belly stripe), bicolor (a white inverted "V" on the face), and van (mostly white, with color on the ears, tail, and mask).
+    source: cfa
+  - text: Large, long, heavy-boned body.
+    source: cfa
+  - text: Semi-long, silky coat with a ruff and a long, plumed tail.
+    source: cfa
+lookAlikes: [ birman, himalayan ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Ragdoll"
+    url: https://cfa.org/breed/ragdoll/
+images:
+  - url: https://cdn2.thecatapi.com/images/HJ_7CZ6rA.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/eF3HSMIB_.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/-JE1XgBFt.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/b2NdzJ36K.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/smuGD4z2U.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

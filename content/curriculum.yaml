@@ -1,15 +1,58 @@
-title: Basic Shapes
+# Cat School curriculum. Units and lessons appear to learners in this order.
+# Each lesson id must match a file in content/lessons/ (see `npm run validate`).
+title: Cat School Breed Identification Course
 intro: Take the lessons in order. Each one unlocks when you pass the quiz of the lesson before it.
 units:
-  - id: shapes
-    title: "Unit 1: Recognizing shapes"
-    description: Name common shapes at a glance and tell look-alikes apart.
+  - id: basics
+    title: "Unit 1: How to Look at a Cat"
+    description: Learn the features that tell cat breeds apart, the main coat patterns, and why most pet cats have no breed.
     lessons:
-      - shapes-01-curves
-      - shapes-02-triangle-and-square
-      - shapes-03-pentagon-and-hexagon
-  - id: facts
-    title: "Unit 2: Shape facts"
-    description: A text-only lesson about counting sides and corners.
+      - basics-01-how-to-look
+      - basics-02-coat-patterns
+      - basics-03-random-bred
+
+  - id: shorthair
+    title: "Unit 2: Classic Shorthairs"
+    description: Sturdy everyday shorthairs and the sleek solid-colored breeds.
     lessons:
-      - facts-01-sides-and-corners
+      - shorthair-01-sturdy-shorthairs
+      - shorthair-02-solid-colors
+      - shorthair-03-review
+
+  - id: wild
+    title: "Unit 3: Wild-Looking Cats"
+    description: Spotted and ticked breeds that look like small wild cats.
+    lessons:
+      - wild-01-spots-and-ticks
+      - wild-02-review
+
+  - id: pointed
+    title: "Unit 4: Colorpoint Cats"
+    description: Pale bodies, dark points and blue eyes - and the Siamese's solid-colored cousin.
+    lessons:
+      - pointed-01-siamese-and-oriental
+      - pointed-02-birman-and-ragdoll
+      - pointed-03-review
+
+  - id: longhair
+    title: "Unit 5: Longhairs"
+    description: Rugged forest cats and the flat-faced Persian family.
+    lessons:
+      - longhair-01-forest-cats
+      - longhair-02-flat-faces
+      - longhair-03-review
+
+  - id: unusual
+    title: "Unit 6: Hairless and Curly Coats"
+    description: The Sphynx and the two Rex breeds.
+    lessons:
+      - unusual-01-hairless-and-rex
+
+  - id: mastery
+    title: "Unit 7: Look-Alikes and Mastery"
+    description: Tell apart the breeds that are most often confused, then take the final challenge.
+    lessons:
+      - mastery-01-blue-cats
+      - mastery-02-forest-cats
+      - mastery-03-pointed-longhairs
+      - mastery-04-final-challenge

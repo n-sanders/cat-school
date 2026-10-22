@@ -1,0 +1,33 @@
+slug: burmese
+name: Burmese
+category: shorthair
+attributes:
+  origin: Myanmar (Burma)
+  size: Medium
+  lifespan: 15-18 years
+imageQuery: bure
+summary: A compact, surprisingly heavy cat with a satin-smooth coat, classically rich sable brown.
+traits:
+  - text: Compact, muscular body that feels heavier than it looks.
+    source: cfa
+  - text: Short, fine, glossy coat with a satin-like texture. Sable (a rich, warm dark brown) is the classic color.
+    source: cfa
+  - text: Rounded head and large, round gold to yellow eyes.
+    source: cfa
+lookAlikes: [ bombay ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Burmese"
+    url: https://cfa.org/breed/burmese/
+  - id: wikipedia
+    title: "Wikipedia: Burmese cat"
+    url: https://en.wikipedia.org/wiki/Burmese_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/92D9NZLs0.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/4lXnnfxac.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

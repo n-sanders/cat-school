@@ -1,0 +1,45 @@
+slug: exotic-shorthair
+name: Exotic Shorthair
+category: shorthair
+attributes:
+  origin: United States
+  size: Medium
+  lifespan: 12-15 years
+imageQuery: esho
+summary: A Persian with a short, plush coat - the flat face without the long hair.
+traits:
+  - text: Built like a Persian - flat face, short snub nose, round head and cobby body.
+    source: cfa
+  - text: Short, dense, plush coat that stands out from the body instead of flowing like a Persian's.
+    source: cfa
+  - text: Often called "the Persian in pajamas".
+    source: wikipedia
+lookAlikes: [ persian, british-shorthair ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Exotic"
+    url: https://cfa.org/breed/exotic/
+  - id: wikipedia
+    title: "Wikipedia: Exotic Shorthair"
+    url: https://en.wikipedia.org/wiki/Exotic_Shorthair
+images:
+  - url: https://cdn2.thecatapi.com/images/dVujvBqnu.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/s_SbQ3Xju.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/EEf-L2ubj.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/veRAgVH2-.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/YnPrYEmfe.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/KJF8fB_20.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

@@ -1,0 +1,45 @@
+slug: cornish-rex
+name: Cornish Rex
+category: unusual
+attributes:
+  origin: United Kingdom
+  size: Small to medium
+  lifespan: 11-15 years
+imageQuery: crex
+summary: A whippet-shaped cat with tight, even waves in its short coat and a high, arched back.
+traits:
+  - text: Short coat in tight, even "marcel" waves lying close to the body - it has no outer guard hairs.
+    source: wikipedia
+  - text: Tall, slender body with an arched back and a tucked-up waist, like a whippet.
+    source: cfa
+  - text: Egg-shaped head with a Roman nose and large ears set high on the head.
+    source: cfa
+lookAlikes: [ devon-rex ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Cornish Rex"
+    url: https://cfa.org/breed/cornish-rex/
+  - id: wikipedia
+    title: "Wikipedia: Cornish Rex"
+    url: https://en.wikipedia.org/wiki/Cornish_Rex
+images:
+  - url: https://cdn2.thecatapi.com/images/gMjW5RYB0.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/yqcbOxkWK.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/XcoqcsVzT.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/A5JigBZjG.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/unX21IBVB.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/4-GdyX_fu.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

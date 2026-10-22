@@ -1,0 +1,47 @@
+slug: oriental
+name: Oriental Shorthair
+category: shorthair
+attributes:
+  origin: United States
+  size: Small to medium
+  lifespan: 12-15 years
+imageQuery: orie
+summary: A Siamese body in hundreds of colors and patterns, with very large ears and usually green eyes.
+traits:
+  - text: Same long, slender body and wedge-shaped head as the Siamese.
+    source: cfa
+  - text: Comes in solid colors and patterns such as tabby and bicolor - but no colorpoints.
+    source: cfa
+  - text: Very large ears that continue the lines of the wedge-shaped head.
+    source: cfa
+  - text: Eyes are usually green; white Orientals may have blue eyes.
+    source: wikipedia
+lookAlikes: [ siamese ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Oriental"
+    url: https://cfa.org/breed/oriental/
+  - id: wikipedia
+    title: "Wikipedia: Oriental Shorthair"
+    url: https://en.wikipedia.org/wiki/Oriental_Shorthair
+images:
+  - url: https://cdn2.thecatapi.com/images/jVu6K43F7.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/U3nsHnCXU.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Mt-cUeiUY.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/0Z9FWHLuK.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/0eVXT8_lb.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/UYp1-LQxI.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

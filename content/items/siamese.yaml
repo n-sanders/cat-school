@@ -1,0 +1,47 @@
+slug: siamese
+name: Siamese
+category: shorthair
+attributes:
+  origin: Thailand
+  size: Medium
+  lifespan: 12-20 years
+imageQuery: siam
+summary: A sleek, short-haired colorpoint cat - pale body, dark face, ears, paws and tail, and deep blue eyes.
+traits:
+  - text: Colorpoint pattern - a pale body with darker "points" on the face mask, ears, legs and tail.
+    source: cfa
+  - text: Deep blue, almond-shaped eyes.
+    source: cfa
+  - text: Long, slender, tube-shaped body, a wedge-shaped head and large ears.
+    source: cfa
+  - text: Short, fine coat that lies close to the body.
+    source: wikipedia
+lookAlikes: [ oriental, birman, himalayan ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Siamese"
+    url: https://cfa.org/breed/siamese/
+  - id: wikipedia
+    title: "Wikipedia: Siamese cat"
+    url: https://en.wikipedia.org/wiki/Siamese_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/KCJeb66J2.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/O2Xx5d4rV.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/O2aNhFGU-.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/__tqyLW91.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/VsaXX13yt.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

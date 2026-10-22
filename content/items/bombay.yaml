@@ -1,0 +1,42 @@
+slug: bombay
+name: Bombay
+category: shorthair
+attributes:
+  origin: United States
+  size: Medium
+  lifespan: 12-18 years
+imageQuery: bomb
+summary: A glossy, jet-black "mini panther" with copper or gold eyes.
+traits:
+  - text: Solid black coat, black right to the roots, with a shiny "patent leather" gloss.
+    source: cfa
+  - text: Copper to gold eyes that stand out against the black face.
+    source: cfa
+  - text: Developed by crossing sable Burmese with black American Shorthairs, so it has a compact, muscular Burmese-like body.
+    source: wikipedia
+lookAlikes: [ burmese ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Bombay"
+    url: https://cfa.org/breed/bombay/
+  - id: wikipedia
+    title: "Wikipedia: Bombay cat"
+    url: https://en.wikipedia.org/wiki/Bombay_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/aZii7hC77.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Z6mrcccZv.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Bc0CMLOjz.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/5iYq9NmT1.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/BkksyH95Z.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

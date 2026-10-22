@@ -1,0 +1,47 @@
+slug: chartreux
+name: Chartreux
+category: shorthair
+attributes:
+  origin: France
+  size: Medium to large
+  lifespan: 12-15 years
+imageQuery: char
+summary: A sturdy French blue cat with a woolly coat and copper-to-orange eyes.
+traits:
+  - text: Always blue-gray - no other colors are allowed.
+    source: cfa
+  - text: Round eyes in copper to deep orange.
+    source: cfa
+  - text: Robust, broad-shouldered body on comparatively short, fine-boned legs.
+    source: cfa
+  - text: Dense, slightly woolly water-repellent coat; a narrow muzzle gives a gentle "smiling" expression.
+    source: wikipedia
+lookAlikes: [ russian-blue, british-shorthair ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Chartreux"
+    url: https://cfa.org/breed/chartreux/
+  - id: wikipedia
+    title: "Wikipedia: Chartreux"
+    url: https://en.wikipedia.org/wiki/Chartreux
+images:
+  - url: https://cdn2.thecatapi.com/images/j6oFGLpRG.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/EYtB_5RrB.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/3-DZDkDGa.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/ZSV_8HqoS.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/SpioNJPsd.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/rw09G0crt.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

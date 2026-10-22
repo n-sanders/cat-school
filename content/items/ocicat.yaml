@@ -1,0 +1,39 @@
+slug: ocicat
+name: Ocicat
+category: shorthair
+attributes:
+  origin: United States
+  size: Medium to large
+  lifespan: 12-18 years
+imageQuery: ocic
+summary: A large, athletic spotted cat named for the ocelot, but bred entirely from domestic cats.
+traits:
+  - text: Large, thumbprint-shaped spots arranged in rows over a short, satiny coat.
+    source: cfa
+  - text: Bred from Abyssinians and Siamese (later with American Shorthairs) - no wild blood.
+    source: wikipedia
+  - text: Large, athletic, solid body; the coat hairs are ticked like an Abyssinian's.
+    source: cfa
+lookAlikes: [ bengal, egyptian-mau, abyssinian ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Ocicat"
+    url: https://cfa.org/breed/ocicat/
+  - id: wikipedia
+    title: "Wikipedia: Ocicat"
+    url: https://en.wikipedia.org/wiki/Ocicat
+images:
+  - url: https://cdn2.thecatapi.com/images/N9XTfbgI6.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/jMZuST3W6.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/qzmA6FAUs.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/VQ_DGs4R8.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

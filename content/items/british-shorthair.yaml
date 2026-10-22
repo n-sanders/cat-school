@@ -1,0 +1,47 @@
+slug: british-shorthair
+name: British Shorthair
+category: shorthair
+attributes:
+  origin: United Kingdom
+  size: Medium to large
+  lifespan: 12-17 years
+imageQuery: bsho
+summary: A big, round, teddy-bear cat with a dense, plush coat, most famous in blue.
+traits:
+  - text: Round head with full, chubby cheeks and a short, broad nose.
+    source: cfa
+  - text: Large, round eyes, usually copper or gold in blue cats.
+    source: cfa
+  - text: Compact, broad-chested ("cobby") body on short, thick legs.
+    source: cfa
+  - text: Very dense, plush coat that feels firm to the touch. Blue-gray ("British Blue") is the best-known color.
+    source: wikipedia
+lookAlikes: [ chartreux, russian-blue, american-shorthair, scottish-fold ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: British Shorthair"
+    url: https://cfa.org/breed/british-shorthair/
+  - id: wikipedia
+    title: "Wikipedia: British Shorthair"
+    url: https://en.wikipedia.org/wiki/British_Shorthair
+images:
+  - url: https://cdn2.thecatapi.com/images/BborJBuoW.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/ZdhQh9wc9.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/s4wQfYoEk.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/1bFFj7N5c.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/qXypILClv.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/M9p3Ql5GH.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

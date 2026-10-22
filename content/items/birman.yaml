@@ -1,0 +1,47 @@
+slug: birman
+name: Birman
+category: longhair
+attributes:
+  origin: France (legend says Burma)
+  size: Medium to large
+  lifespan: 12-16 years
+imageQuery: birm
+summary: The "Sacred Cat of Burma" - a blue-eyed colorpoint with pure white gloves on all four paws.
+traits:
+  - text: Pure white "gloves" on all four paws, ending neatly at the ankle on the front feet.
+    source: cfa
+  - text: Colorpoint pattern with deep blue, almost round eyes.
+    source: cfa
+  - text: Medium-long, silky coat that rarely mats, with a heavy ruff around the neck.
+    source: cfa
+  - text: Known as the "Sacred Cat of Burma".
+    source: wikipedia
+lookAlikes: [ ragdoll, himalayan, siamese ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Birman"
+    url: https://cfa.org/breed/birman/
+  - id: wikipedia
+    title: "Wikipedia: Birman"
+    url: https://en.wikipedia.org/wiki/Birman
+images:
+  - url: https://cdn2.thecatapi.com/images/ln1Ks7VIu.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/TzyZJUeIM.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Dm0H1zSK1.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/qg0_IodJp.png
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/TKKtEJZVl.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/C0BNiXO0T.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

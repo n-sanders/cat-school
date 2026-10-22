@@ -1,0 +1,45 @@
+slug: sphynx
+name: Sphynx
+category: unusual
+attributes:
+  origin: Canada
+  size: Medium
+  lifespan: 12-16 years
+imageQuery: sphy
+summary: A cat that looks hairless, with wrinkled skin, huge ears and lemon-shaped eyes.
+traits:
+  - text: Appears hairless, though the skin may have a fine, suede-like down.
+    source: cfa
+  - text: Wrinkled skin, especially on the head and shoulders.
+    source: cfa
+  - text: Very large, wide-open ears and big, lemon-shaped eyes.
+    source: cfa
+lookAlikes: [ devon-rex, cornish-rex ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Sphynx"
+    url: https://cfa.org/breed/sphynx/
+  - id: wikipedia
+    title: "Wikipedia: Sphynx cat"
+    url: https://en.wikipedia.org/wiki/Sphynx_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/oMrk721sl.png
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/c9sGDkRoi.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/rPTbM2Tvt.png
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/2hPNn0Wrr.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Y_z-aBHvf.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Wd_Py_Mj8.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

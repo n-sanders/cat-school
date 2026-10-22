@@ -1,0 +1,44 @@
+slug: egyptian-mau
+name: Egyptian Mau
+category: shorthair
+attributes:
+  origin: Egypt
+  size: Medium
+  lifespan: 13-16 years
+imageQuery: emau
+summary: The only naturally spotted domestic breed, with gooseberry-green eyes and a slightly worried look.
+traits:
+  - text: Randomly placed spots on a silver, bronze or smoke coat - a naturally spotted breed, not a wild hybrid.
+    source: cfa
+  - text: Large "gooseberry green" eyes that give a slightly worried expression.
+    source: cfa
+  - text: A loose flap of skin running from the flank to the back knee lets it stretch for a long stride.
+    source: wikipedia
+  - text: Dark "mascara" lines run from the eyes across the cheeks, and an "M" marks the forehead.
+    source: wikipedia
+lookAlikes: [ bengal, ocicat ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Egyptian Mau"
+    url: https://cfa.org/breed/egyptian-mau/
+  - id: wikipedia
+    title: "Wikipedia: Egyptian Mau"
+    url: https://en.wikipedia.org/wiki/Egyptian_Mau
+images:
+  - url: https://cdn2.thecatapi.com/images/BZ59tdOo6.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Y2MO5GWHO.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/AH61b9ziS.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/uygraw0_D.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/TuSyTkt2n.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

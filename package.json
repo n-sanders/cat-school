@@ -1,5 +1,5 @@
 {
-  "name": "studykit",
+  "name": "catschool",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -12,7 +12,8 @@
     "typecheck": "tsc -b",
     "validate": "tsx scripts/validate-content.ts",
     "validate:offline": "tsx scripts/validate-content.ts --offline",
-    "audit": "tsx scripts/audit-report.ts"
+    "audit": "tsx scripts/audit-report.ts",
+    "pin-images": "tsx scripts/pin-images.ts"
   },
   "dependencies": {
     "react": "^19.3.1",

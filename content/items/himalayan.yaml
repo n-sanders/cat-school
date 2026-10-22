@@ -1,0 +1,42 @@
+slug: himalayan
+name: Himalayan
+category: longhair
+attributes:
+  origin: United States
+  size: Medium
+  lifespan: 9-15 years
+imageQuery: hima
+summary: A Persian with Siamese colorpoints - long coat, flat face and blue eyes.
+traits:
+  - text: Persian body, long coat and flat face, with a colorpoint pattern (dark face mask, ears, legs and tail).
+    source: cfa
+  - text: Blue eyes, like other colorpoint cats.
+    source: cfa
+  - text: Created by crossing Persians with Siamese; CFA shows it as a color division of the Persian.
+    source: wikipedia
+lookAlikes: [ persian, birman, ragdoll, siamese ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Persian (includes the Himalayan division)"
+    url: https://cfa.org/breed/persian/
+  - id: wikipedia
+    title: "Wikipedia: Himalayan cat"
+    url: https://en.wikipedia.org/wiki/Himalayan_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/To-gnSRLr.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/zcErB6rHb.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/ajWdNxBwN.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/PG-4j7axo.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/wu8gMdmfo.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

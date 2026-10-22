@@ -1,0 +1,45 @@
+slug: devon-rex
+name: Devon Rex
+category: unusual
+attributes:
+  origin: United Kingdom
+  size: Small to medium
+  lifespan: 10-15 years
+imageQuery: drex
+summary: A pixie-faced cat with enormous low-set ears, big eyes and a soft, loosely waved coat.
+traits:
+  - text: Huge, wide ears set low on the sides of the head.
+    source: cfa
+  - text: Short, soft, loosely waved or curly coat.
+    source: cfa
+  - text: Elfin face - large eyes, prominent cheekbones and a short muzzle.
+    source: wikipedia
+lookAlikes: [ cornish-rex, sphynx ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Devon Rex"
+    url: https://cfa.org/breed/devon-rex/
+  - id: wikipedia
+    title: "Wikipedia: Devon Rex"
+    url: https://en.wikipedia.org/wiki/Devon_Rex
+images:
+  - url: https://cdn2.thecatapi.com/images/uUGt0UBzF.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/Zhv2xfZFH.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/DEbrbE0_7.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/yFwzO96ds.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/_BhPUA-L-.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/LT13Rnq3P.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

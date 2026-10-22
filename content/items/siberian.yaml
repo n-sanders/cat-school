@@ -1,0 +1,45 @@
+slug: siberian
+name: Siberian
+category: longhair
+attributes:
+  origin: Russia
+  size: Medium to large
+  lifespan: 11-18 years
+imageQuery: sibe
+summary: A strong Russian forest cat built from circles - rounded head, round eyes and a barrel-shaped body.
+traits:
+  - text: Rounded contours everywhere - a rounded head, rounded muzzle and round eyes.
+    source: cfa
+  - text: Medium-large, barrel-shaped, very muscular body. The hind legs are slightly longer than the front, and the back is slightly higher than the shoulders.
+    source: cfa
+  - text: Thick, triple-layered coat adapted to the Siberian climate.
+    source: wikipedia
+lookAlikes: [ norwegian-forest-cat, maine-coon ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Siberian"
+    url: https://cfa.org/breed/siberian/
+  - id: wikipedia
+    title: "Wikipedia: Siberian cat"
+    url: https://en.wikipedia.org/wiki/Siberian_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/BbtRK5XT6.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/ziBew-QH2.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/rEcqVVVto.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/3bkZAjRh1.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/HNNrk-UxN.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/QMpc9tBAG.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

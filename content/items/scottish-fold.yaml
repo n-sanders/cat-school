@@ -1,0 +1,45 @@
+slug: scottish-fold
+name: Scottish Fold
+category: shorthair
+attributes:
+  origin: Scotland
+  size: Medium
+  lifespan: 11-14 years
+imageQuery: sfol
+summary: A round-faced cat whose small ears fold forward and down, giving it an owl-like look.
+traits:
+  - text: Small ears folded forward and downward, caused by a natural gene mutation.
+    source: cfa
+  - text: Round head, large round eyes and a short neck give an owl-like expression.
+    source: cfa
+  - text: Not every Scottish Fold kitten has folded ears - some are born with straight ears.
+    source: wikipedia
+lookAlikes: [ british-shorthair ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Scottish Fold"
+    url: https://cfa.org/breed/scottish-fold/
+  - id: wikipedia
+    title: "Wikipedia: Scottish Fold"
+    url: https://en.wikipedia.org/wiki/Scottish_Fold
+images:
+  - url: https://cdn2.thecatapi.com/images/Z6d8vsYAo.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/q7izjTTa4.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/8Ggv2cWP_.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/5txKBK89Y.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/ShbKwvcD_.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/tOGSsMx5J.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

@@ -1,0 +1,47 @@
+slug: maine-coon
+name: Maine Coon
+category: longhair
+attributes:
+  origin: United States
+  size: Large
+  lifespan: 12-15 years
+imageQuery: mcoo
+summary: One of the largest domestic breeds - a shaggy, rugged cat with tufted ears and a long, bushy tail.
+traits:
+  - text: Large, long, rectangular body - one of the biggest domestic cat breeds.
+    source: cfa
+  - text: Shaggy coat, shorter on the shoulders and longer on the belly and britches, with a ruff on the chest.
+    source: cfa
+  - text: Large ears, often with lynx-like tufts at the tips, and a square muzzle.
+    source: cfa
+  - text: Long, bushy, flowing tail.
+    source: wikipedia
+lookAlikes: [ norwegian-forest-cat, siberian ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Maine Coon Cat"
+    url: https://cfa.org/breed/maine-coon-cat/
+  - id: wikipedia
+    title: "Wikipedia: Maine Coon"
+    url: https://en.wikipedia.org/wiki/Maine_Coon
+images:
+  - url: https://cdn2.thecatapi.com/images/VuFcqjORh.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/3IWhPRL3a.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/PoZIVJ124.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/6JCuKEGDQ.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/OOD3VXAQn.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/MmiojCuKC.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

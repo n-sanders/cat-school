@@ -1,0 +1,47 @@
+slug: russian-blue
+name: Russian Blue
+category: shorthair
+attributes:
+  origin: Russia
+  size: Medium
+  lifespan: 15-20 years
+imageQuery: rblu
+summary: A slim, graceful blue cat with a silvery shimmer and vivid green eyes.
+traits:
+  - text: Short, dense double coat in even blue-gray, with silver-tipped hairs that give it a shimmer.
+    source: cfa
+  - text: Vivid green eyes.
+    source: cfa
+  - text: Fine-boned, long and graceful body on long legs - slimmer than a British Shorthair or Chartreux.
+    source: cfa
+  - text: Upturned corners of the mouth give a slight "smile".
+    source: wikipedia
+lookAlikes: [ chartreux, british-shorthair ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Russian Blue"
+    url: https://cfa.org/breed/russian-blue/
+  - id: wikipedia
+    title: "Wikipedia: Russian Blue"
+    url: https://en.wikipedia.org/wiki/Russian_Blue
+images:
+  - url: https://cdn2.thecatapi.com/images/kmvetZsyr.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/DdmsQrCAv.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/LXgmee2q_.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/tHKLZkKZG.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/LIoOlcalr.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/4B7MJpywg.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

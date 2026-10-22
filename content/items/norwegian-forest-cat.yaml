@@ -1,0 +1,45 @@
+slug: norwegian-forest-cat
+name: Norwegian Forest Cat
+category: longhair
+attributes:
+  origin: Norway
+  size: Large
+  lifespan: 14-16 years
+imageQuery: norw
+summary: A big Scandinavian forest cat with a triangular head, straight profile and water-resistant double coat.
+traits:
+  - text: Triangle-shaped head with a straight profile - the nose runs in one straight line from brow to tip.
+    source: cfa
+  - text: Thick, water-resistant double coat with a full ruff and a long, bushy tail.
+    source: cfa
+  - text: Back legs longer than the front legs, so the rump sits higher than the shoulders.
+    source: cfa
+lookAlikes: [ maine-coon, siberian ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Norwegian Forest Cat"
+    url: https://cfa.org/breed/norwegian-forest-cat/
+  - id: wikipedia
+    title: "Wikipedia: Norwegian Forest cat"
+    url: https://en.wikipedia.org/wiki/Norwegian_Forest_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/2JgKj4y4B.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/AnSMHMGvb.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/gXyHm7ozO.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/-ZBBqoWNQ.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/7x-75d7vB.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/neW1xzZv4.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

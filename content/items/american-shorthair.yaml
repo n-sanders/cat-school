@@ -1,0 +1,39 @@
+slug: american-shorthair
+name: American Shorthair
+category: shorthair
+attributes:
+  origin: United States
+  size: Medium to large
+  lifespan: 15-20 years
+imageQuery: asho
+summary: A sturdy, muscular working cat from North America, best known in silver tabby.
+traits:
+  - text: Solid, well-muscled body with heavy shoulders and sturdy legs - built as a working cat.
+    source: cfa
+  - text: Large face with full cheeks; the head is a little longer than it is wide.
+    source: cfa
+  - text: Short, thick, hard-textured coat. The classic silver tabby, with black swirls on silver, is the best-known color.
+    source: cfa
+lookAlikes: [ british-shorthair ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: American Shorthair"
+    url: https://cfa.org/breed/american-shorthair/
+  - id: wikipedia
+    title: "Wikipedia: American Shorthair"
+    url: https://en.wikipedia.org/wiki/American_Shorthair
+images:
+  - url: https://cdn2.thecatapi.com/images/SCHe-SekW.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/MuEGe1-Sz.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/8NdgktL3E.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/JFPROfGtQ.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"

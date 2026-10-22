@@ -1,0 +1,47 @@
+slug: abyssinian
+name: Abyssinian
+category: shorthair
+attributes:
+  origin: United Kingdom (named for Abyssinia)
+  size: Medium
+  lifespan: 14-17 years
+imageQuery: abys
+summary: A lithe, alert cat with a "ticked" coat - every hair banded, but no spots or stripes on the body.
+traits:
+  - text: Ticked coat - each hair has bands of dark and light color - giving a warm, glowing look with no spots or stripes on the body.
+    source: cfa
+  - text: Ruddy (warm reddish-brown) is the classic color.
+    source: cfa
+  - text: Large, alert ears and almond-shaped gold or green eyes.
+    source: cfa
+  - text: Lithe, medium-sized, muscular body that looks ready to spring.
+    source: wikipedia
+lookAlikes: [ ocicat ]
+sources:
+  - id: cfa
+    title: "Cat Fanciers' Association: Abyssinian"
+    url: https://cfa.org/breed/abyssinian/
+  - id: wikipedia
+    title: "Wikipedia: Abyssinian cat"
+    url: https://en.wikipedia.org/wiki/Abyssinian_cat
+images:
+  - url: https://cdn2.thecatapi.com/images/KWdLHmOqc.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/tv8tNeYaU.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/itfFA4NWS.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/EHG3sOpAM.jpg
+    note: ""
+    reviewed: true
+  - url: https://cdn2.thecatapi.com/images/p6x60nX6U.jpg
+    note: ""
+    reviewed: true
+reviewedBy: content-audit
+reviewedOn: "2026-10-22"
