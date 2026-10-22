@@ -1,0 +1,25 @@
+slug: square
+name: Square
+category: polygon
+attributes:
+  sides: "4"
+summary: A polygon with four equal sides and four right-angle corners.
+traits:
+  - text: Four sides, all the same length.
+    source: wikipedia
+  - text: Four square (90 degree) corners.
+    source: wikipedia
+lookAlikes: []
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Square"
+    url: https://en.wikipedia.org/wiki/Square
+images:
+  - url: images/shapes/square-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/square-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

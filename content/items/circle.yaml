@@ -1,0 +1,25 @@
+slug: circle
+name: Circle
+category: curved
+attributes:
+  sides: "0"
+summary: A round shape where every point on the edge is the same distance from the center.
+traits:
+  - text: Perfectly round - it looks the same no matter how you turn it.
+    source: wikipedia
+  - text: Has no corners and no straight edges.
+    source: wikipedia
+lookAlikes: [ellipse]
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Circle"
+    url: https://en.wikipedia.org/wiki/Circle
+images:
+  - url: images/shapes/circle-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/circle-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

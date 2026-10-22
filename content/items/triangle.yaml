@@ -1,0 +1,25 @@
+slug: triangle
+name: Triangle
+category: polygon
+attributes:
+  sides: "3"
+summary: A polygon with three straight sides and three corners.
+traits:
+  - text: Three straight sides.
+    source: wikipedia
+  - text: Three corners, which always add up to 180 degrees.
+    source: wikipedia
+lookAlikes: []
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Triangle"
+    url: https://en.wikipedia.org/wiki/Triangle
+images:
+  - url: images/shapes/triangle-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/triangle-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

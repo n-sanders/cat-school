@@ -1,0 +1,25 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  // Worker name and *.workers.dev subdomain; change it for each topic.
+  "name": "studykit",
+  // Set this to today's date
+  "compatibility_date": "2026-10-21",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 1
+    }
+  },
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist",
+    // Hash routes live on index.html; this also serves the app for direct path visits.
+    "not_found_handling": "single-page-application"
+  }
+}

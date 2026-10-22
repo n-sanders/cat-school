@@ -1,0 +1,25 @@
+slug: pentagon
+name: Pentagon
+category: polygon
+attributes:
+  sides: "5"
+summary: A polygon with five straight sides, often drawn with a point at the top.
+traits:
+  - text: Five straight sides and five corners.
+    source: wikipedia
+  - text: Usually drawn like a house shape, with one point at the top and a flat bottom.
+    source: wikipedia
+lookAlikes: [hexagon]
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Pentagon"
+    url: https://en.wikipedia.org/wiki/Pentagon
+images:
+  - url: images/shapes/pentagon-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/pentagon-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

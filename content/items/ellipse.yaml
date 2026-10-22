@@ -1,0 +1,25 @@
+slug: ellipse
+name: Ellipse
+category: curved
+attributes:
+  sides: "0"
+summary: An oval - a circle that has been stretched in one direction.
+traits:
+  - text: Wider than it is tall (or taller than it is wide).
+    source: wikipedia
+  - text: Smooth and curved all the way around, with no corners.
+    source: wikipedia
+lookAlikes: [circle]
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Ellipse"
+    url: https://en.wikipedia.org/wiki/Ellipse
+images:
+  - url: images/shapes/ellipse-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/ellipse-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

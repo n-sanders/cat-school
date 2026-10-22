@@ -1,0 +1,25 @@
+slug: hexagon
+name: Hexagon
+category: polygon
+attributes:
+  sides: "6"
+summary: A polygon with six straight sides - the shape of honeycomb cells.
+traits:
+  - text: Six straight sides and six corners.
+    source: wikipedia
+  - text: In a regular hexagon, opposite sides are parallel; a regular pentagon has no parallel sides.
+    source: wikipedia
+lookAlikes: [pentagon]
+sources:
+  - id: wikipedia
+    title: "Wikipedia: Hexagon"
+    url: https://en.wikipedia.org/wiki/Hexagon
+images:
+  - url: images/shapes/hexagon-filled.svg
+    note: ""
+    reviewed: true
+  - url: images/shapes/hexagon-outline.svg
+    note: ""
+    reviewed: true
+reviewedBy: example
+reviewedOn: "2026-10-21"

@@ -1,0 +1,15 @@
+title: Basic Shapes
+intro: Take the lessons in order. Each one unlocks when you pass the quiz of the lesson before it.
+units:
+  - id: shapes
+    title: "Unit 1: Recognizing shapes"
+    description: Name common shapes at a glance and tell look-alikes apart.
+    lessons:
+      - shapes-01-curves
+      - shapes-02-triangle-and-square
+      - shapes-03-pentagon-and-hexagon
+  - id: facts
+    title: "Unit 2: Shape facts"
+    description: A text-only lesson about counting sides and corners.
+    lessons:
+      - facts-01-sides-and-corners
